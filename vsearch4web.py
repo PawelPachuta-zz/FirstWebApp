@@ -103,7 +103,7 @@ def view_the_log() -> 'html':
     return 'Błąd'
 
 
-app.secret_key = 'NigdyNieZgadnieszMojegoTajnegoKlucza'
+app.secret_key = 
 
 
 if __name__ == '__main__':
